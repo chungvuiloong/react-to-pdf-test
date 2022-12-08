@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with react-to-pdf-test App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is only test app to test converting react components into pdf.
 
 ## How to start this project
 #### 1. Git clone https://github.com/jirimicvl/react-to-pdf-test.git
